@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raelhan&label=Profile%20views&color=0e75b6&style=flat" alt="raelhan" /> </p>
 
-- 🔭 I currently work at Infinite Learning as a Mobile Applications Mentor
-- 🌱 I’m currently learning Android app developer
+- 🌱 Mobile Developer Enthusiast
 - 📫 How to reach me reynlldi93@gmail.com
 
 <h3 align="left">Connect with me:</h3>
